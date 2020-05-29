@@ -3,7 +3,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Volo.Abp.Autofac;
 using Volo.Abp.AutoMapper;
 using Volo.Abp.Modularity;
-using Volo.Abp.ObjectMapping;
 
 namespace FundAnalysis
 {
